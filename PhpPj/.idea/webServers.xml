@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75416a2a-cc9d-42a7-8513-60c2be0ccb91" name="localhost" url="http://localhost/PhpPj">
+        <fileTransfer mountedRoot="C:\MAMP\htdocs\PhpPj" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
